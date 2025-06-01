@@ -2,7 +2,7 @@
 
 ## Full Stack Web Developer | Freelancer
 
-As a passionate full-stack web developer with **3+ years of frontend experience** and **1 year of backend development** (junior level), I specialize in creating innovative CRUD applications, dynamic e-commerce websites, and stunning landing pages. With expertise in replicating complex UI/UX designs and transforming creative concepts into responsive, feature-rich applications, I'm dedicated to delivering visually appealing and highly functional digital experiences that exceed expectations.
+As a passionate full-stack web developer with **3+ years of frontend experience** and **1 year of backend development**, I specialize in creating innovative CRUD applications, dynamic e-commerce websites, and stunning landing pages. With expertise in replicating complex UI/UX designs and transforming creative concepts into responsive, feature-rich applications, I'm dedicated to delivering visually appealing and highly functional digital experiences that exceed expectations.
 
 - 🌍  Based in Lagos, Nigeria
 - ✉️  Contact me at [lawalhamzat27@gmail.com](mailto:lawalhamzat27@gmail.com)
